@@ -1,0 +1,40 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #d4d4d4;
+    border-bottom: 2px black solid;
+    font-family: sans-serif;
+    padding: 1em;
+}
+nav h1{
+    float: left;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    margin: 1em;
+}
+.top img{
+    width: 100%;
+    margin-top: 5%;
+}
+.preview ul li{
+    display: inline-block;
+    float: left;
+    width: 45%;
+    margin: 2%;
+}
+footer{
+    color: white;
+    background-color: #d4d4d4;
+    padding: 2px;
+    text-align: center;
+    display: block-inline;
+    height: 2em;
+    float: left;
+    width: 100%;
+}
